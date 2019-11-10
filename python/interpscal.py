@@ -22,4 +22,4 @@ def interp(pressurenew):
 # plt.plot(pressure_scal, K_scal, 'o', pressurenew, c)
 # plt.title('Compressibility vs. Pressure (Fetkovich, 1998)'); plt.xlabel('Pressure (MPa)'); plt.ylabel('Compressibility')
 # plt.axis([1, 70, 0, 30])
-# plt.show()
+# plt.savefig('InterpolatedSCAL.png') #save to figure
