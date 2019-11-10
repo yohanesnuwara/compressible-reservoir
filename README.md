@@ -1,2 +1,3 @@
 # compressible-reservoir
-Petro-elastic Modelling for Reservoir Simulation and 4D Seismic
+
+compressible-reservoir is a simulator for rock compressibility effect to reservoir simulation and 4D seismic. 
