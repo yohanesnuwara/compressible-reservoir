@@ -35,7 +35,7 @@ Pressure_Result_Initial_55MPa : result of reservoir pressure if the initial rese
 Time-lapse.png                : result of baseline (pre-production), post-production seismic image, and the difference seismic image. </br>
 </br>
 **What's next?** </br>
-**compressible-reservoir** will be continuously developed to account for phase flow, started from single-phase flow in 1D, 2D, to larger dimension. Also it will offer compatibility to make own synthetic models, and even import geological model to this simulator. Geomechanics function will be added. The rock physics function will be also more advanced. This next step is commonly regarded as Petro-elastic Modelling (PEM). 
+**compressible-reservoir** will be continuously developed to account for phase flow, started from single-phase flow in 1D, 2D, to larger dimension. Also it will offer compatibility to make own synthetic models, and even import geological model to this simulator. Geomechanics function will be added. The rock physics function will be also more advanced. This next step is commonly regarded as Petro-elastic Modelling (PEM). </br>
 </br>
 With all my regards, may you enjoy this simulation, and don't forget to take into account the importance of rock compressibility behaviour in reservoir simulation! </br>
 </br>
