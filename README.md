@@ -9,7 +9,7 @@ Rock compressibility (Cr) in rocks changes linearly and non-linearly with reserv
 **Assumptions made:** homogeneous reservoir, only time dimension (no spatial), no phase flow.  
 
 **Input data:**
-SCAL_linear.txt     : SCAL data of linear Cr change (sandstone dataset of Gulf Coast by Fetkovitch et al, 1998)
+SCAL_linear.txt     : SCAL data of linear Cr change (sandstone dataset of Gulf Coast by Fetkovitch et al, 1998) <br/>
 SCAL_nonlinear.txt  : SCAL data of non-linear Cr change (sandstone dataset by Zimmerman, 1986)
 faultedchannel.txt  : synthetic faulted channel for 4D seismic modelling
 
