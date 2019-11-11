@@ -37,7 +37,8 @@ Time-lapse.png                : result of baseline (pre-production), post-produc
 **What's next?** </br>
 **compressible-reservoir** will be continuously developed to account for phase flow, started from single-phase flow in 1D, 2D, to larger dimension. Also it will offer compatibility to make own synthetic models, and even import geological model to this simulator. Geomechanics function will be added. The rock physics function will be also more advanced. This next step is commonly regarded as Petro-elastic Modelling (PEM). 
 </br>
-With all my regards, may you enjoy this simulation, and don't forget to take into account the importance of rock compressibility behaviour in reservoir simulation!
+With all my regards, may you enjoy this simulation, and don't forget to take into account the importance of rock compressibility behaviour in reservoir simulation! </br>
+</br>
 </br>
 </br>
 **Yohanes Nuwara**
