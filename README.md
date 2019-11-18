@@ -15,11 +15,11 @@ faultedchannel.txt  : synthetic faulted channel for 4D seismic modelling </br>
 </br>
 **Main functions:** </br>
 simulator.py        : pressure simulator using simple equation </br>
-4Dseismic.py        : time-lapse/4D seismic response modelling </br>
+4d-seismic.py       : time-lapse/4D seismic response modelling </br>
 
 **Support Functions:** </br>
 interpscal.py       : interpolating SCAL data </br>
-batzlewang.py       : rock physics function; Batzle-Wang (1991) to predict water, oil, and gas properties </br>
+Batzle_and_Wang.py  : rock physics function; Batzle-Wang (1991) to predict water, oil, and gas properties </br>
 gassmann.py         : rock physics function; Gassmann (1951) to predict elastic properties of the saturated sandstone </br>
 Kuster_Toksoz.py    : rock physics function; Kuster-Toksoz (1973) to predict elastic properties of the saturated carbonate </br>
 DEM.py              : rock physics function; Differential Effective Medium by Berryman (1980) to predict elastic properties of saturated rock </br>
