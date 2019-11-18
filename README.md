@@ -1,5 +1,7 @@
 # compressible-reservoir
 
+![compressible-reservoir](https://user-images.githubusercontent.com/51282928/69024649-4a37d800-09f6-11ea-8c39-881ff34d6cb7.png)
+
 **compressible-reservoir** is a Python simulator that simulates the effect of rock compressibility in reservoir pressure and 4D seismic. 
 
 Rock compressibility (Cr) in rocks changes linearly and non-linearly with reservoir pressure (Chertov & Suarez-Rivera, 2014). Linear behavior is typical to low porosity and highly-consolidated rock, whereas non-linear behavior is typical to high porosity and weakly-consolidated rock. **In most simulations, the effect of changing rock compressibility is often neglected**, so the Cr is kept constant. This simulator shows that both these linear and non-linear behaviour of Cr affects the depletion of reservoir pressure after production. We can also study using this simulator, about compaction drive mechanism.
